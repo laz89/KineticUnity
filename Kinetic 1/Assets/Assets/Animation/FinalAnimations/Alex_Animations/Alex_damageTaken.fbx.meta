@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 9268c1b64b501d74d9153f672cb661a5
+timeCreated: 1486607742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ct_neck_01
+    100004: Ct_neck_02
+    100006: Ct_spine_01
+    100008: Ct_spine_02
+    100010: Ct_spine_03
+    100012: Ct_spine_04
+    100014: Ct_spine_05
+    100016: Dimitry_Body_Low_Res_Main_Character_ArmorLoRez
+    100018: Lt_ankle
+    100020: Lt_coller
+    100022: Lt_elbow
+    100024: Lt_hip
+    100026: Lt_Index__01
+    100028: Lt_Index__02
+    100030: Lt_Index__03
+    100032: Lt_knee
+    100034: Lt_middle__01
+    100036: Lt_Middle__02
+    100038: Lt_Middle__03
+    100040: Lt_pinky__01
+    100042: Lt_pinky__02
+    100044: Lt_pinky__03
+    100046: Lt_ring__01
+    100048: Lt_ring__02
+    100050: Lt_ring__03
+    100052: Lt_shulder
+    100054: Lt_thumb__01
+    100056: Lt_thumb__02
+    100058: Lt_thumb__03
+    100060: Lt_toe
+    100062: Lt_wrist
+    100064: polySurface1
+    100066: Rt_ankle
+    100068: Rt_coller
+    100070: Rt_elbow
+    100072: Rt_hip
+    100074: Rt_Index__01
+    100076: Rt_Index__02
+    100078: Rt_Index__03
+    100080: Rt_knee
+    100082: Rt_middle__01
+    100084: Rt_Middle__02
+    100086: Rt_Middle__03
+    100088: Rt_pinky__01
+    100090: Rt_pinky__02
+    100092: Rt_pinky__03
+    100094: Rt_ring__01
+    100096: Rt_ring__02
+    100098: Rt_ring__03
+    100100: Rt_shulder
+    100102: Rt_thumb__01
+    100104: Rt_thumb__02
+    100106: Rt_thumb__03
+    100108: Rt_toe
+    100110: Rt_wrist
+    400000: //RootNode
+    400002: Ct_neck_01
+    400004: Ct_neck_02
+    400006: Ct_spine_01
+    400008: Ct_spine_02
+    400010: Ct_spine_03
+    400012: Ct_spine_04
+    400014: Ct_spine_05
+    400016: Dimitry_Body_Low_Res_Main_Character_ArmorLoRez
+    400018: Lt_ankle
+    400020: Lt_coller
+    400022: Lt_elbow
+    400024: Lt_hip
+    400026: Lt_Index__01
+    400028: Lt_Index__02
+    400030: Lt_Index__03
+    400032: Lt_knee
+    400034: Lt_middle__01
+    400036: Lt_Middle__02
+    400038: Lt_Middle__03
+    400040: Lt_pinky__01
+    400042: Lt_pinky__02
+    400044: Lt_pinky__03
+    400046: Lt_ring__01
+    400048: Lt_ring__02
+    400050: Lt_ring__03
+    400052: Lt_shulder
+    400054: Lt_thumb__01
+    400056: Lt_thumb__02
+    400058: Lt_thumb__03
+    400060: Lt_toe
+    400062: Lt_wrist
+    400064: polySurface1
+    400066: Rt_ankle
+    400068: Rt_coller
+    400070: Rt_elbow
+    400072: Rt_hip
+    400074: Rt_Index__01
+    400076: Rt_Index__02
+    400078: Rt_Index__03
+    400080: Rt_knee
+    400082: Rt_middle__01
+    400084: Rt_Middle__02
+    400086: Rt_Middle__03
+    400088: Rt_pinky__01
+    400090: Rt_pinky__02
+    400092: Rt_pinky__03
+    400094: Rt_ring__01
+    400096: Rt_ring__02
+    400098: Rt_ring__03
+    400100: Rt_shulder
+    400102: Rt_thumb__01
+    400104: Rt_thumb__02
+    400106: Rt_thumb__03
+    400108: Rt_toe
+    400110: Rt_wrist
+    4300000: Dimitry_Body_Low_Res_Main_Character_ArmorLoRez
+    4300002: polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dimitry_Body_Low_Res_Main_Character_ArmorLoRez
+    13700002: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
